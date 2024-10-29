@@ -101,12 +101,17 @@ print("Mean Squared Error:", mse)
 print("\nPredictions:\n", Y_pred[:5])
 ```
 
+
+
 ## Output:
+
 ![2024-09-11](https://github.com/user-attachments/assets/d8c3bb06-cf9f-4b0d-ae33-865a049cbf59)
+
+
 ![2024-09-11 (1)](https://github.com/user-attachments/assets/6d5f6303-9b47-4b44-a9c7-e60d3c404ca3)
+
+
 ![2024-09-11 (3)](https://github.com/user-attachments/assets/be31213c-d973-43da-bb38-a4fd146ca6ea)
-
-
 
 
 ## Result:
